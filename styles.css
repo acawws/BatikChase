@@ -1,0 +1,30 @@
+body {background-color:white;
+}
+
+nav ul {list-style-type:none;
+        text-align:right;
+}
+
+nav ul li {display:inline;
+           color:#FBD000;
+           font-weight:bold;
+	   font: Brush Script MT;
+}
+
+h1 {text-align:center;
+    font-family: Helvetica;
+    font-weight:bold;
+    color:#43B047;
+    text-decoration-line: overline;text-decoration-color: white;
+}
+
+p {text-align:justify; font-weight:bold;
+   font-family: Helvetica;font-size: 20px;
+   text-shadow: 2px 2px 5px #FFD987;
+}
+
+img {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
