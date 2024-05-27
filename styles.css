@@ -2,13 +2,12 @@ body {background-color:white;
 }
 
 nav ul {list-style-type:none;
-        text-align:right;
+        text-align:right;font: Brush Script MT;
 }
 
 nav ul li {display:inline;
            color:#FBD000;
            font-weight:bold;
-	   font: Brush Script MT;
 }
 
 h1 {text-align:center;
