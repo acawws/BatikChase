@@ -2,12 +2,12 @@ body {background-color:white;
 }
 
 nav ul {list-style-type:none;
-        text-align:right;font-family: Brush Script MT;
+        text-align:right;
 }
 
 nav ul li {display:inline;
            color:#FBD000;
-           font-weight:bold;
+           font-weight:bold; font-size:40px
 }
 
 h1 {text-align:center;
