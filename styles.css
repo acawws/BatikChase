@@ -2,7 +2,7 @@ body {background-color:white;
 }
 
 nav ul {list-style-type:none;
-        text-align:right;font: Brush Script MT;
+        text-align:right;font-family: Brush Script MT;
 }
 
 nav ul li {display:inline;
