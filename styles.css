@@ -19,7 +19,8 @@ h1 {text-align:center;
 
 p {text-align:justify; font-weight:bold;
    font-family: Helvetica;font-size: 20px;
-   text-shadow: 2px 2px 5px #FFD987;
+   color:black;
+   text-shadow: 2px 2px 5px white;
 }
 
 img {display: block;
